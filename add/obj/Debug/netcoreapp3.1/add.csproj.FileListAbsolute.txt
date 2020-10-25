@@ -1,0 +1,13 @@
+/home/hisayuki/dotnet/src/add/bin/Debug/netcoreapp3.1/add
+/home/hisayuki/dotnet/src/add/bin/Debug/netcoreapp3.1/add.deps.json
+/home/hisayuki/dotnet/src/add/bin/Debug/netcoreapp3.1/add.runtimeconfig.json
+/home/hisayuki/dotnet/src/add/bin/Debug/netcoreapp3.1/add.runtimeconfig.dev.json
+/home/hisayuki/dotnet/src/add/bin/Debug/netcoreapp3.1/add.dll
+/home/hisayuki/dotnet/src/add/bin/Debug/netcoreapp3.1/add.pdb
+/home/hisayuki/dotnet/src/add/obj/Debug/netcoreapp3.1/add.csprojAssemblyReference.cache
+/home/hisayuki/dotnet/src/add/obj/Debug/netcoreapp3.1/add.AssemblyInfoInputs.cache
+/home/hisayuki/dotnet/src/add/obj/Debug/netcoreapp3.1/add.AssemblyInfo.cs
+/home/hisayuki/dotnet/src/add/obj/Debug/netcoreapp3.1/add.csproj.CoreCompileInputs.cache
+/home/hisayuki/dotnet/src/add/obj/Debug/netcoreapp3.1/add.dll
+/home/hisayuki/dotnet/src/add/obj/Debug/netcoreapp3.1/add.pdb
+/home/hisayuki/dotnet/src/add/obj/Debug/netcoreapp3.1/add.genruntimeconfig.cache
