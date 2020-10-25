@@ -1,0 +1,13 @@
+/home/hisayuki/dotnet/src/Calculation/obj/Debug/netcoreapp3.1/Calculation.csprojAssemblyReference.cache
+/home/hisayuki/dotnet/src/Calculation/obj/Debug/netcoreapp3.1/Calculation.AssemblyInfoInputs.cache
+/home/hisayuki/dotnet/src/Calculation/obj/Debug/netcoreapp3.1/Calculation.AssemblyInfo.cs
+/home/hisayuki/dotnet/src/Calculation/obj/Debug/netcoreapp3.1/Calculation.csproj.CoreCompileInputs.cache
+/home/hisayuki/dotnet/src/Calculation/bin/Debug/netcoreapp3.1/Calculation
+/home/hisayuki/dotnet/src/Calculation/bin/Debug/netcoreapp3.1/Calculation.deps.json
+/home/hisayuki/dotnet/src/Calculation/bin/Debug/netcoreapp3.1/Calculation.runtimeconfig.json
+/home/hisayuki/dotnet/src/Calculation/bin/Debug/netcoreapp3.1/Calculation.runtimeconfig.dev.json
+/home/hisayuki/dotnet/src/Calculation/bin/Debug/netcoreapp3.1/Calculation.dll
+/home/hisayuki/dotnet/src/Calculation/bin/Debug/netcoreapp3.1/Calculation.pdb
+/home/hisayuki/dotnet/src/Calculation/obj/Debug/netcoreapp3.1/Calculation.dll
+/home/hisayuki/dotnet/src/Calculation/obj/Debug/netcoreapp3.1/Calculation.pdb
+/home/hisayuki/dotnet/src/Calculation/obj/Debug/netcoreapp3.1/Calculation.genruntimeconfig.cache
