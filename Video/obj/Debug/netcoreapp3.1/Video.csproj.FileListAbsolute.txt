@@ -1,0 +1,13 @@
+/home/hisayuki/dotnet/src/Video/obj/Debug/netcoreapp3.1/Video.csprojAssemblyReference.cache
+/home/hisayuki/dotnet/src/Video/obj/Debug/netcoreapp3.1/Video.AssemblyInfoInputs.cache
+/home/hisayuki/dotnet/src/Video/obj/Debug/netcoreapp3.1/Video.AssemblyInfo.cs
+/home/hisayuki/dotnet/src/Video/obj/Debug/netcoreapp3.1/Video.csproj.CoreCompileInputs.cache
+/home/hisayuki/dotnet/src/Video/bin/Debug/netcoreapp3.1/Video
+/home/hisayuki/dotnet/src/Video/bin/Debug/netcoreapp3.1/Video.deps.json
+/home/hisayuki/dotnet/src/Video/bin/Debug/netcoreapp3.1/Video.runtimeconfig.json
+/home/hisayuki/dotnet/src/Video/bin/Debug/netcoreapp3.1/Video.runtimeconfig.dev.json
+/home/hisayuki/dotnet/src/Video/bin/Debug/netcoreapp3.1/Video.dll
+/home/hisayuki/dotnet/src/Video/bin/Debug/netcoreapp3.1/Video.pdb
+/home/hisayuki/dotnet/src/Video/obj/Debug/netcoreapp3.1/Video.dll
+/home/hisayuki/dotnet/src/Video/obj/Debug/netcoreapp3.1/Video.pdb
+/home/hisayuki/dotnet/src/Video/obj/Debug/netcoreapp3.1/Video.genruntimeconfig.cache
