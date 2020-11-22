@@ -31,12 +31,30 @@ Day4:
  (2) add
  (3) add2
   
+Day5:
+
 6.  クラス（メソッド、関数）
  (1) Calculation
  (2) Video
 
 
-Day5:
+Day6:
 
 7.　ライブラリ
 　　https://imagingsolution.net/program/csharp/build_csharp_dll/
+
+
+Day7:
+
+8. List 
+    https://programming.pc-note.net/csharp/list.html
+
+9. MVCを使ってアプリを作る 
+    http://www.binaryintellect.net/articles/b6f251ee-0dd9-4741-8928-107a62b63e74.aspx
+
+(1) Models/EmoloyeeEntity.cs
+    表に入れるデータと型を定義する。
+(2) Contorllers/HomeControllers
+　　① 使用するライブラリを定義する。 
+    ② DBに接続する。
+
