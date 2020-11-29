@@ -1,5 +1,5 @@
 ﻿using System;
-using Caluclation.Mathlib;
+using Calculation.Mathlib;
 
 namespace Calculation
 {

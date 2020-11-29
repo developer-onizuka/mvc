@@ -1,6 +1,6 @@
 using System;
 
-namespace Caluclation.Mathlib
+namespace Calculation.Mathlib
 {
 	public class CalculationAdd
 	{

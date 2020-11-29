@@ -49,12 +49,29 @@ Day7:
 8. List 
     https://programming.pc-note.net/csharp/list.html
 
+Day8:
+
 9. MVCを使ってアプリを作る 
     http://www.binaryintellect.net/articles/b6f251ee-0dd9-4741-8928-107a62b63e74.aspx
 
 (1) Models/EmoloyeeEntity.cs
     表に入れるデータと型を定義する。
 (2) Contorllers/HomeControllers
-　　① 使用するライブラリを定義する。 
+　  ① 使用するライブラリを定義する。 
     ② DBに接続する。
+    ③ Listクラスを使ったインスタンスを定義する。
+    ④ Listインスタンスをメソッドで操作する。
+	https://www.sejuku.net/blog/41093
+        https://csharp-ref.com/collection_list.html
+	  - Add
+	  - Insert
+          - RemoveAt
+          - Find
+	  - Exists
+        https://www.urablog.xyz/entry/2018/06/10/070000
+          - Contains
 
+10. ラムダ式
+    https://csharp-ref.com/program_linq-lambda.html
+    https://programming.pc-note.net/csharp/lambda.html
+ 
