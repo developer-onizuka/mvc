@@ -4,7 +4,7 @@
 
 namespace Employee_without_DB.Models
 {
-	public class EmployeeEntity
+	public class EmployeeEntity 
         {
                 //public ObjectId Id { get; set; }
                 public int EmployeeID { get; set; }

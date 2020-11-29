@@ -55,7 +55,15 @@ namespace Employee_without_DB.Controllers
 //			Console.WriteLine(emp.FirstName);
 //			collection.InsertOne(emp);
 //			ViewBag.Message = "Employee added successfully!";
-			_list.Add(emp);
+			if (_list.Exists(x => x.EmployeeID == emp.EmployeeID))
+			{
+				ViewBag.Message = "The EmployeeID was already used.";
+			}
+			else
+			{
+				_list.Add(emp);
+				ViewBag.Message = "Employee added successfully!";
+			}
 			return View();
 		}
 
