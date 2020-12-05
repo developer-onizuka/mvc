@@ -64,14 +64,14 @@ Day8:
 	https://www.sejuku.net/blog/41093
         https://csharp-ref.com/collection_list.html
 	  - Add
+          - FindAll
+	  - Exists
 	  - Insert
           - RemoveAt
-          - Find
-	  - Exists
-        https://www.urablog.xyz/entry/2018/06/10/070000
-          - Contains
 
 10. ラムダ式
     https://csharp-ref.com/program_linq-lambda.html
     https://programming.pc-note.net/csharp/lambda.html
  
+11. ToStringメソッド
+    https://shabonlearning.com/cSharp/csharp_kiso7.html
