@@ -39,7 +39,8 @@ namespace Employee_without_DB.Controllers
 //			Console.WriteLine(list[0].EmployeeID);
 //			Console.WriteLine(list[0].FirstName);
 //			Console.WriteLine(list[0].LastName);
-			var model = _list.FindAll(a=>true).ToList();
+			//var model = _list.FindAll(a=>true).ToList();
+			List<EmployeeEntity> model = _list.FindAll(a=>true);
 			return View(model);
 		}
 
