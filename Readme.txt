@@ -56,4 +56,7 @@
 	  - Insert
           - RemoveAt
     ⑤ FindAllしたList構造をView()に食わせる。    
+	- @Model
         https://aspnet.keicode.com/basic/aspnet-mvc-strongly-typed-view.php
+	- タグヘルパー：
+	https://blog.shibayan.jp/entry/20170725/1500966960
